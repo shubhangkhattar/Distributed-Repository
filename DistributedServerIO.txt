@@ -1,0 +1,12 @@
+SET a 15
+OK
+SET b 16
+OK
+SET r2.a 18
+OK
+SET r2.b 19
+OK
+ADD r2.a 20
+OK
+DSUM a including r1 r2
+53

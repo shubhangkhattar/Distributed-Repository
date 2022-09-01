@@ -1,0 +1,10 @@
+SET a 12
+OK
+ADD a 154
+OK
+SUM a
+OK 166
+SET b 18
+OK
+GET b
+OK 18,
